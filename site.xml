@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/ARCCFeature_1.0.0.201706091857.jar" id="ARCCFeature" version="1.0.0.201706091857">
+      <category name="edu.rit.goal.arcc.strategy_category"/>
+   </feature>
+   <category-def name="edu.rit.goal.arcc.strategy_category" label="Strategies"/>
+</site>
