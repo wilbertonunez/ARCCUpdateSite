@@ -26,3 +26,6 @@ To create a strategy, right click on a method's signature from the *Outline* win
 ### Searching strategies
 
 Press *Ctrl + H* to perform a search, and go to the *Strategy Search* tab. Select one option from the dropdown, and click *Search*. Results will appear in the *Search* window. Double click twice one of the method signatures in the results to highlight the code according to the patterns matched. The *Strategy* window will display the color corresponding to every pattern and their interleaving. It is possible to deselect patterns and click on the method's signature again to re-highlight accordingly.
+
+
+For a showcase of ARCC, please watch https://www.youtube.com/watch?v=5LAK7en2Sr8&list=PLmizZtBESdPHDyKXKHMXj13r2pBCKzIoA.
