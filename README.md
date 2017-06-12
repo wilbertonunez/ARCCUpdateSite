@@ -2,7 +2,7 @@
 
 As software projects evolve, carefully understanding the behavior
 of a program is mandatory before making any change. In addition, repetitive code snippets tend to appear throughout the codebase, and developers have to understand similar semantics multiple times. Building on this observation, we present ARCC: an Assistant for Repetitive Code Comprehension. Our tool, implemented
-as an Eclipse plugin, assists developers leverage knowledge of a
+as an Eclipse plugin, helps developers leverage knowledge of a
 program to understand other programs containing a subset of the
 semantics in the former. ARCC differs from existing approaches in
 that it uses an extensible knowledge base of recurrent semantic
